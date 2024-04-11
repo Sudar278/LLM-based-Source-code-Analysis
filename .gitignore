@@ -1,0 +1,4 @@
+.env
+research\data\*
+research\new_test_repo\*
+db
